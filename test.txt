@@ -1,4 +1,9 @@
+<<<<<<< HEAD
  this is test.txt file to merge and conflict git example
 this is 3rd time modification
 
 
+=======
+ this is test file tomerge and conflict git example
+this is 3rd time modification
+>>>>>>> experiment
