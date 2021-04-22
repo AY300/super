@@ -1,2 +1,2 @@
- this is test file tomerge
+ this is test file tomerge and conflict git example
 
